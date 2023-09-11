@@ -1,2 +1,5 @@
 tensorflow
 scikit-learn
+scikit-image
+numpy
+opencv-python
